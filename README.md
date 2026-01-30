@@ -1,19 +1,19 @@
-# cv-profesional
+# CV Profesional - Pedro Mollers
 
-Mi portafolio personal - **Pedro Mollers**
+Este repositorio contiene mi currículum profesional y portafolio de proyectos desarrollados.
 
-## Ver el Proyecto en Vivo
-Puedes visitar mi portafolio aquí: https://peddrom.github.io/cv-profesional/
+## Enlace del Proyecto
+Link al portafolio: [https://peddrom.github.io/cv-profesional/](https://peddrom.github.io/cv-profesional/)
 
-## Tecnologías Usadas
-* **HTML5** (Semántico)
-* **CSS3** (Estilos personalizados)
-* **Bootstrap 5.3** (Diseño responsivo)
-* **FontAwesome** (Iconos)
-* **Git & GitHub Pages** (Versionamiento y despliegue)
+## Tecnologías Utilizadas
+* HTML5
+* CSS3 (Custom Styles)
+* Bootstrap 5.3
+* FontAwesome
+* GitHub Pages
 
-## Previsualización
-Este proyecto incluye:
-* Barra de navegación responsiva.
-* Sección de Educación y Experiencia Laboral.
-* Portafolio con imágenes de proyectos anteriores.
+## Estructura del Sitio
+* **Inicio:** Presentación y redes sociales.
+* **Educación:** Estudios.
+* **Experiencia:** Experiencia Laboral.
+* **Portafolio:** Proyectos desarrollados.
