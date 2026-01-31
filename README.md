@@ -17,3 +17,4 @@ Link al portafolio: [https://peddrom.github.io/cv-profesional/](https://peddrom.
 * **Educación:** Estudios.
 * **Experiencia:** Experiencia Laboral.
 * **Portafolio:** Proyectos desarrollados.
+Aporte de Marcelo Mancilla para actividad Git/GitHub
